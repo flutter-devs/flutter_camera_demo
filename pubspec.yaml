@@ -1,0 +1,35 @@
+name: flutter_camera_app
+description: A new Flutter Camera application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  #camera: ^0.2.3
+  camera:
+    git:
+      url: git://github.com/kmorkos/plugins.git
+      ref: camera/crash-fix
+      path: packages/camera/
+  path_provider: ^0.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/ic_flutter_devs_logo.png
+    - assets/images/ic_powered_by.png
+    - assets/images/ic_shutter_1.png
+    - assets/images/ic_switch_camera_3.png
+    - assets/images/ic_no_image.png

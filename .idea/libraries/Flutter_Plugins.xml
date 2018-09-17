@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/git/plugins-eb1aa361bd705b307c05665e3624f2435ac6120e/packages/camera" />
+      <root url="file://$PROJECT_DIR$/../../../../../flutter_windows_v0.4.4-beta/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
