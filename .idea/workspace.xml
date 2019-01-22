@@ -2,228 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da475696-9013-41a9-96f8-8822e78dbcdc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill.incremental.dill" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/generated/source/buildConfig/debug/com/aeologic/fluttercameraapp/BuildConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/generated/source/r/debug/com/aeologic/fluttercameraapp/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/generated/source/r/debug/io/flutter/plugins/camera/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/generated/source/r/debug/io/flutter/plugins/pathprovider/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/AssetManifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/FontManifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/images/ic_flutter_devs_logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/images/ic_no_image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/images/ic_powered_by.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/images/ic_shutter_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/images/ic_switch_camera_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/isolate_snapshot_data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/platform_strong.dill" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/vm_snapshot_data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/blame/res/debug/multi-v2/values.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/blame/res/debug/single/debug.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/aeologic/fluttercameraapp/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/aeologic/fluttercameraapp/MainActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/aeologic/fluttercameraapp/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/aeologic/fluttercameraapp/R$mipmap.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/aeologic/fluttercameraapp/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/com/aeologic/fluttercameraapp/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/io/flutter/plugins/GeneratedPluginRegistrant.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/io/flutter/plugins/camera/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/classes/debug/io/flutter/plugins/pathprovider/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/ic_flutter_devs_logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/ic_no_image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/ic_powered_by.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/ic_shutter_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/images/ic_switch_camera_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/platform_strong.dill" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/flutter-x86.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/DL+ugdUPLZUqYBxJF6GrH90z+Rk=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/TOSxt3erTlcx2P9fpDN+5kqTVe8=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/X_bt_5RSdVkZYNIC1sGrN69mCIc=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/e1aFXEb_7fmXz7X0ugHpZRwrkDo=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/pzeJ7sHys_wHG16MhSJZrPusEvA=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/DL+ugdUPLZUqYBxJF6GrH90z+Rk=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/TOSxt3erTlcx2P9fpDN+5kqTVe8=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/X_bt_5RSdVkZYNIC1sGrN69mCIc=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/e1aFXEb_7fmXz7X0ugHpZRwrkDo=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/pzeJ7sHys_wHG16MhSJZrPusEvA=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/Zd1wEKif10ayn06bJkl0kCrpjxk=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/e_uCRkeAN+oz9rBFfoCwHgnwwvg=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/density/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/full/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/manifests/instant-run/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/debug/resources-debug.ap_" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/splits-support/debug/apk-list/apk-list.gson" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/splits-support/debug/split-list/split-list.gson" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/symbols/debug/R.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/com/aeologic/fluttercameraapp/BuildConfig.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/com/aeologic/fluttercameraapp/MainActivity.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/com/aeologic/fluttercameraapp/R$drawable.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/com/aeologic/fluttercameraapp/R$mipmap.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/com/aeologic/fluttercameraapp/R$style.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/com/aeologic/fluttercameraapp/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/io/flutter/plugins/camera/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/13/io/flutter/plugins/pathprovider/R.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libflutter.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libflutter.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libflutter.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/app.apk.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/app-debug.apk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/apk/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/outputs/logs/manifest-merger-debug-report.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/app/tmp/flutterBuildX86Jar/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/generated/source/buildConfig/debug/io/flutter/plugins/camera/BuildConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/generated/source/r/debug/io/flutter/plugins/camera/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/attr/R.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$5.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera$7.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$Camera.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$CameraRequestPermissionsListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin$CompareSizesByArea.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/CameraPlugin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/classes/debug/io/flutter/plugins/camera/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/extractedTypedefs/debug/typedefs.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/packageDebugAssets/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/incremental/packageDebugResources/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/intermediate-jars/debug/classes.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/intermediate-jars/debug/res.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/manifests/aapt/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/manifests/full/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/packaged-classes/debug/classes.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/symbols/debug/R.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/outputs/aar/camera-debug.aar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/camera/outputs/logs/manifest-merger-debug-report.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/frontend_server.d" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/last_build_run.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/generated/source/buildConfig/debug/io/flutter/plugins/pathprovider/BuildConfig.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/generated/source/r/debug/io/flutter/plugins/pathprovider/R.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/attr/R.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/classes/debug/io/flutter/plugins/pathprovider/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/classes/debug/io/flutter/plugins/pathprovider/PathProviderPlugin.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/classes/debug/io/flutter/plugins/pathprovider/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/extractedTypedefs/debug/typedefs.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/packageDebugAssets/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/incremental/packageDebugResources/merger.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/intermediate-jars/debug/classes.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/intermediate-jars/debug/res.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/manifests/aapt/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/manifests/full/debug/output.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/packaged-classes/debug/classes.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/symbols/debug/R.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/outputs/aar/path_provider-debug.aar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/path_provider/outputs/logs/manifest-merger-debug-report.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="217073318">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="yaml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -231,61 +53,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="65" />
+    <option name="y" value="34" />
+    <option name="width" value="1535" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CameraUIDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CameraUIDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CameraUIDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CameraUIDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_camera_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_camera_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,77 +100,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -389,9 +118,24 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -407,52 +151,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Captures" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.3293979" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293979" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293979" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
