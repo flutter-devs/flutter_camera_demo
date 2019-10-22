@@ -28,8 +28,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/ic_flutter_devs_logo.png
-    - assets/images/ic_powered_by.png
-    - assets/images/ic_shutter_1.png
-    - assets/images/ic_switch_camera_3.png
-    - assets/images/ic_no_image.png
+    - assets/images/
